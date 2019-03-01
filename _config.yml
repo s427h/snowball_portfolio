@@ -31,7 +31,7 @@ google_analytics:
 email: s427h@naver.com
 
 baseurl: "/snowball_portfolio" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://s427h.github.io/snowball_portfolio" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: s427h
 github_username:  s427h
 
