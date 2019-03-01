@@ -28,7 +28,7 @@ google_analytics:
 # email:
 
 baseurl: "/snowball_portfolio" # the subpath of your site, e.g. /blog
-url: "https://s427h.github.io/snowball_portfolio" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://s427h.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  s427h
 
 # Build settings
